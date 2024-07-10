@@ -1134,6 +1134,7 @@ body .contentWrapper-3RqEiS .accordionContainer-vSTU_l {
   background: var(--background-primary) !important;
 }
 /* Remove Big Nitro Button */
+/* Remove Big Nitro Button */
 [href="/store"] {
 	display: none;
 }
@@ -1141,5 +1142,8 @@ body .contentWrapper-3RqEiS .accordionContainer-vSTU_l {
 	display: none;
 }
 [href="/shop"] {
+	display: none;
+}
+[href="/overlay2"] {
 	display: none;
 }
