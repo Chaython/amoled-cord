@@ -1146,3 +1146,16 @@ body .contentWrapper-3RqEiS .accordionContainer-vSTU_l {
 :is(.theme-dark, .theme-midnight) .sidebar_a4d4d9 .panels_a4d4d9 > div, :is(.theme-dark, .theme-midnight) .sidebar_a4d4d9 .panels_a4d4d9 .wrapper_adcaac > div {
   background: var(--background-primary) !important;
 }
+/* Remove Big Nitro Button */
+[href="/store"] {
+	display: none;
+}
+[href="/nitro"] {
+	display: none;
+}
+[href="/shop"] {
+	display: none;
+}
+[href="/overlay2"] {
+	display: none;
+}
