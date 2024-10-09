@@ -1116,3 +1116,6 @@ html.theme-dark .theme-light .root_f9a4c9,
 [href="/overlay2"] {
 	display: none;
 }
+[aria-label='Send a gift'] {
+  display: none !important;
+}
