@@ -1223,3 +1223,17 @@
 [aria-label='Send a gift'] {
   display: none !important;
 }
+/* Hide "What's New" */
+.container-2hGeKZ[aria-label="What's New"] {
+    display: none;
+}
+
+/* Hide "Merch" */
+.container-2hGeKZ[aria-label="Merch"] {
+    display: none;
+}
+
+/* Hide "Hypesquad" */
+.container-2hGeKZ[aria-label="Hypesquad"] {
+    display: none;
+}
